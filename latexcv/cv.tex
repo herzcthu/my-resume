@@ -1,0 +1,217 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\usepackage{afterpage}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{smartdiagram}
+\usepackage{fontspec}
+% if you want to add fontawesome package
+% you need to compile the tex file with LuaLaTeX
+% References:
+%   http://texdoc.net/texmf-dist/doc/latex/fontawesome/fontawesome.pdf
+%   https://www.ctan.org/tex-archive/fonts/fontawesome?lang=en
+%\usepackage{fontawesome}
+\usepackage{metalogo}
+\usepackage{dtklogos}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{mindmap,shadows}
+\hypersetup{
+    pdftitle={},
+    pdfauthor={},
+    pdfsubject={},
+    pdfkeywords={},
+    colorlinks=false,           % no lik border color
+    allbordercolors=white       % white border color for all
+}
+\smartdiagramset{
+    bubble center node font = \footnotesize,
+    bubble node font = \footnotesize,
+    % specifies the minimum size of the bubble center node
+    bubble center node size = 0.5cm,
+    %  specifies the minimum size of the bubbles
+    bubble node size = 0.4cm,
+    % specifies which is the distance among the bubble center node and the other bubbles
+    distance center/other bubbles = 0.29cm,
+    % sets the distance from the text to the border of the bubble center node
+    distance text center bubble = 0.28cm,
+    % set center bubble color
+    bubble center node color = pblue,
+    % define the list of colors usable in the diagram
+    set color list = {lightgray, materialcyan, orange, green, materialorange, materialteal, materialamber, materialindigo, materialgreen, materiallime},
+    % sets the opacity at which the bubbles are shown
+    bubble fill opacity = 0.6,
+    % sets the opacity at which the bubble text is shown
+    bubble text opacity = 0.5,
+}
+
+\addbibresource{bibliography.bib}
+\RequirePackage{xcolor}
+\definecolor{pblue}{HTML}{0395DE}
+
+\begin{document}
+\header{SiThu}{Thwin}
+      {DevOps Engineer}
+      
+% Fake text to add separator      
+\fcolorbox{white}{gray}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{%
+.....
+}}
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \includegraphics[scale=1]{img/myself-circle.png}
+  \section{Address}
+    Hlaing Tsp
+    Yangon, Myanmar
+    ~
+  \section{Tel \& Skype}
+    +95 979 7969695
+    live:sithuthwin
+    ~
+  \section{Mail}
+    \href{mailto:sithu@thwin.net}{\textbf{sithu@}\\thwin.net}
+    ~
+  \section{Web \& Git}
+    \href{https://www.thwin.net}{thwin.net}
+    \href{https://github.com/herzcthu}{github.com/herzcthu}
+    \href{https://gitlab.com/herzcthu}{gitlab.com/herzcthu}
+    ~
+  % use  \hspace{} or \vspace{} to change bubble size, if needed
+  \section{Programming}
+    \textbf{PHP}\includegraphics[scale=0.40]{img/4stars.png}
+    \textbf{Python}\includegraphics[scale=0.40]{img/3stars.png}
+    \textbf{HTML}\includegraphics[scale=0.40]{img/3stars.png}
+    \textbf{CSS}\includegraphics[scale=0.40]{img/2stars.png}
+    \textbf{JS}\includegraphics[scale=0.40]{img/2stars.png}
+    \textbf{YAML}\includegraphics[scale=0.40]{img/3stars.png}
+    \textbf{Bash}\includegraphics[scale=0.40]{img/3stars.png}
+    \textbf{LaTeX}\includegraphics[scale=0.40]{img/2stars.png}
+    ~
+  \section{Technologies}
+    \textbf{GitLab CI/CD}
+    \textbf{SonarQube}
+    \textbf{Maven}
+    \textbf{Docker}
+    \textbf{ELK/EFK}
+    \textbf{Prometheus/Grafana}
+    \textbf{K8S/Helm}
+    \textbf{AWS/Azure/Oracle}
+    ~
+\end{aside}
+~
+\section{Experience}
+\begin{entrylist}
+  \entry
+    {03/19 - Now}
+    {Lead DevOps Engineer}
+    {YOMA Bank}
+    {Lead DevOps in Digital Transformation. Designed CI/CD pipeline and Gitflow for new mobile/online banking app based on Backbase.\\Deploy Kubernetes Cluster on Azure and on-premise Datacenter.\\Integrate ISTIO and Netflix Eureka based microservices.\\Develop k8s helm charts for backbase deployment.\\Maintain maven files for JAVA package and docker image building.\\Training DevOps team.\\}
+  \entry
+    {11/17 - 03/19}
+    {Assistant Team Lead (System and Database)}
+    {YOMA Bank}
+    {Oracle and MySql management. Maintain Digital Channel (Mobile Banking) and Finastra's Fusion Middleware\\
+    }
+  \entry
+    {08/17 - 11/17}
+    {Database Specialist}
+    {YOMA Bank}
+    {Oracle and MySql management. Developed Cash Management Portal (YOMA and McKinsey project)\\}
+  \entry
+    {04/16 - 08/17}
+    {Senior System Administrator}
+    {Blue Ocean Call Center}
+    {Manage SIP Gateway, Asterisk, VMware, UCS server, SIP routing. Lead and completed to setup call center for Grab Taxi Myanmar. Developed CRM for CocaCola Myanmar\\ }
+\end{entrylist}
+
+\section{Projects}
+\begin{entrylist}
+	\entry
+	{Consultant}
+	{ICT Consultant for Election Monitoring}
+	{NDI, Washinton DC}
+	{Develop data collection software (Web based and SMS). Data syncronization between cloud and local server. This software is used in 
+		\begin{itemize}
+			\item 2015 General Election Myanmar,
+			\item 2017 By-Election Myanmar,
+			\item 2017 General Election Cambodia.
+		\end{itemize}}
+	\entry
+	{Cloud}
+	{DataCenter Migration}
+	{BluePlanet}
+	{Move on-prem datacenter to AWS cloud. Auto scaling EC2 instances using spot instance. Data replication between on-prem and cloud. Asterisk SIP routing from cloud to on-prem servers.\\}
+\end{entrylist}
+\section{Education}
+\begin{entrylist}
+  \entry
+    {2001 - 2004}
+    {Bachelor's Degree in German Language}
+    {UFL, Mandalay}
+    {Specialized in German Language\\ }
+\end{entrylist}
+\newpage
+
+\begin{aside}
+~
+~
+~
+  \section{Personal Skills}
+	\smartdiagram[bubble diagram]{
+		\textbf{Quick}\\\textbf{Learner},
+		\textbf{Organize},
+		\textbf{Team}\\\textbf{Player},
+		\textbf{Initiative},
+		\textbf{Curiosity},
+		\textbf{Problem}\\\textbf{Solving},
+		\textbf{Manage}
+	}
+	~
+\end{aside}
+\section{Certifications}
+\begin{entrylist}
+	\entry
+	{04/2019}
+	{LinuxFoundationX - LFS158x}
+	{edx.org}
+	{\emph{Introduction to Kubernetes}}
+	\entry
+	{09/2014}
+	{CCNA Cisco Certified Network Associate}
+	{PearsonVUE}
+	{\emph{Routing and Switching}}
+\end{entrylist}
+
+\section{Training}
+\begin{entrylist}
+	\entry
+	{Self-Paced}
+	{LFS258 Kubernetes Fundamentals}
+	{linuxfoundation.org}
+	{Certified Kubernetes Administrator Program}
+	\entry
+	{09/2018}
+	{RedHat Openshift Workshop}
+	{RedHat}
+	{\emph{Openshift setup on-prem with Ansible. Openshift Architecture}}	\entry
+	{07/2018}
+	{VMware Certified Professional 6.5}
+	{BIM Training, VMware Official}
+	{\emph{Datacenter Virtualization}}
+	\entry
+	{09/2014}
+	{Advanced Network Engineering}
+	{RHC Technologies}
+	{\emph{Advanced networking. Routing and switching}}
+\end{entrylist}
+
+\begin{flushleft}
+\emph{June 10th, 2019}
+\end{flushleft}
+\begin{flushright}
+\emph{Sithu Thwin}
+\end{flushright}
+
+\end{document}
