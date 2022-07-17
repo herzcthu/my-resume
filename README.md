@@ -6,7 +6,7 @@
 * Name: Sithu Thwin (aka) Si Thu Thwin
 * Email: sithu[at]thwin[dot]net
 * Phone: +95 9 797969695
-* Address: Hlaing Township, Yangon, Myanmar. Postal Code: 11051
+* Address: CL1-202, Cityloft@Starcity, Thanlyin Township, Yangon, Myanmar. Postal Code: 11291
 
 ***
 
@@ -34,10 +34,15 @@
 
 # Other Certifications
 * CCNA
+* CKA
+* CKS
 
 # Job Experiences
 
-* 2017 - Current - DevOps Lead and Architech
-* 2014 - Current - Project based IT Consultant (NDI)
+* 2022 - Current - Platform Team Lead
+* 2020 - 2022 - Solution Architech
+* 2019 - 2020 - Lead DevOps Engineer
+* 2017 - 2019 - Assistant Team Lead
+* 2014 - 2020 - Project based IT Consultant (NDI)
 * 2015 - 2017 - Senior system administrator
 * 2008 - 2015 - Freelance IT Consultant
