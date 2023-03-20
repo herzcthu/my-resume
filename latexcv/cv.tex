@@ -6,6 +6,10 @@
 \usepackage{xcolor}
 \usepackage{smartdiagram}
 \usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+
 % if you want to add fontawesome package
 % you need to compile the tex file with LuaLaTeX
 % References:
@@ -58,6 +62,31 @@
 \fcolorbox{white}{gray}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{%
 .....
 }}
+%...
+
+% Add badges
+\begin{figure}[h]
+  \centering
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/cka.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/istio-expert.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/istio-intermediate.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/istio-fundamentals.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/envoy.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.1\linewidth}
+    \includegraphics[width=\linewidth]{img/ccna.png}
+  \end{subfigure}
+\end{figure}
+%...
 
 % In the aside, each new line forces a line break
 \begin{aside}
@@ -67,12 +96,15 @@
     Than Lyin Township
     Yangon, Myanmar
     ~
-  \section{Tel \& Skype}
-    +95 979 7969695
-    live:sithuthwin
+  \section{Contact}
+    \textbf{Tel:} +95 979 7969695
+    \textbf{Skype:} live:sithuthwin
     ~
   \section{Mail}
-    \href{mailto:sithu@thwin.net}{\textbf{sithu@}\\thwin.net}
+    \href{mailto:sithu@thwin.net}{\textbf{sithu@}thwin.net}
+    ~
+  \section{Social}
+    \textbf{LinkedIn:} \href{https://www.linkedin.com/in/si-thu-thwin/}{si-thu-thwin}
     ~
   \section{Web \& Git}
     \href{https://www.thwin.net}{thwin.net}
@@ -101,6 +133,7 @@
     ~
 \end{aside}
 ~
+%...
 
 \section{Skills}
 \begin{entrylist}
@@ -109,31 +142,27 @@
   {Kubernetes, ISTIO, Helm, Single Mesh, Service Discovery}
   {DevOps}
   {  \begin{itemize}
-      \item More than 4 year experiences working with Kubernetes and Istio
-      \item Setup and maintain multi datacenter, multi cluster single mesh and service discovery using ISTIO
-      \item Well experienced working with ISTIO ingress gateway, virtual services, mTLS and istio API resources
-      \item Very well understanding about Kubernetes APIs and resources
-      \item Very well experienced creating helm charts
-      \item Very well experienced working with stateful apps and statefulset in Kubernetes
-      \item Very well experienced working with Kubernetes operators
+      \item More than 4 year experiences working with Kubernetes and Istio.
+      \item Setup and maintain multi datacenter, multi cluster single mesh and service discovery using ISTIO.
+      \item Well experienced working with ISTIO ingress gateway, virtual services, mTLS and istio API resources.
+      \item Very well understanding about Kubernetes APIs and resources. Very well experienced creating helm charts.
+      \item Very well experienced working with stateful apps and statefulset in Kubernetes. Very well experienced working with Kubernetes operators.
     \end{itemize}}
   \entry
   {Messaging}
   {Kafka, ActiveMQ, Strimzi, Debezium}
   {DevOps}
   { \begin{itemize}
-      \item Deploy, manage and maintain Kafka Cluster on Kubernetes and VM
-      \item Deploy, manage and maintain Debezium for CDC
-      \item Manage Strimzi Operator for Kafka Cluster
-      \item Deploy and manage ActiveMQ on Kubernetes and VM
+      \item Deploy, manage and maintain Kafka Cluster on Kubernetes and VM. 
+      \item Deploy, manage and maintain Debezium for CDC.
+      \item Manage Strimzi Operator for Kafka Cluster. Deploy and manage ActiveMQ on Kubernetes and VM.
     \end{itemize}}
   \entry
   {GitOps}
   {GitOps, GitFlow, Gitlab}
   {DevOps}
   { \begin{itemize}
-      \item Well experienced on git operation
-      \item Well established knowledge on git and gitflow
+      \item Well experienced on git operation. Well established knowledge on git and gitflow.
       \item Organize repositories for easier management (Current organization follow the SOP created by myself)
     \end{itemize}}
   \entry
@@ -159,9 +188,9 @@
   {Grafana, Prometheus, Jaeger, Zabbix, Pinpoint, Graylog}
   {DevOps}
   { \begin{itemize}
-      \item proficient with setting up various montoring tools
-      \item Pinpoint is one of the great tracing and application performance mornitoring tools that can replace various commercial solutions such as appdynamic, dynatrace. I have very good experiences with pinpoint.
-      \item Graylog can replace ELK stack and it is great for application logging. I can setup automatic alert to various communication channels such as slack or team channels. I can create dashboards in graylog for monitoring and early error dectection.
+      \item Proficient with setting up various montoring tools
+      \item Very good experiences with pinpoint APM
+      \item Graylog or ELK stack
     \end{itemize}}
 \end{entrylist}
 \newpage
@@ -173,7 +202,8 @@
   ~
   ~
   \section{Referee}
-  \textbf{Name}
+  \textbf{Sander Meinema}
+  \href{mailto:sander@architectingasaservice.com}{\textbf{sander@}architectingasaservice.com}
 \end{aside}
 \section{Experience}
 ~
@@ -270,12 +300,7 @@
 \section{Certifications}
 \begin{entrylist}
   \entry
-  {08/2022}
-  {CKS}
-  {cncf.io}
-  {\emph{Certified Kubernetes Security Specialist}}
-  \entry
-  {07/2022}
+  {01/2023}
   {CKA}
   {cncf.io}
   {\emph{Certified Kubernetes Administrator}}
@@ -314,7 +339,7 @@
   {\emph{Advanced networking. Routing and switching}}
 \end{entrylist}
 
-\textbf{\emph{July 16th, 2022}}
+\textbf{\emph{March 20th, 2023}}
 \hfill
 \textbf{\emph{Sithu Thwin}}
 \end{document}
