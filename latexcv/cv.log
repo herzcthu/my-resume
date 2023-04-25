@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  20 MAR 2023 12:06
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  25 APR 2023 15:23
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1288,26 +1288,26 @@ File: img/cka.png Graphic file (type png)
 <use img/cka.png>
 Package luatex.def Info: img/cka.png  used on input line 71.
 (luatex.def)             Requested size: 39.80782pt x 39.80008pt.
-<img/istio-expert.png, id=35, 163.812pt x 163.812pt>
+<img/istio-expert.png, id=35, 481.8pt x 481.8pt>
 File: img/istio-expert.png Graphic file (type png)
 <use img/istio-expert.png>
 Package luatex.def Info: img/istio-expert.png  used on input line 74.
-(luatex.def)             Requested size: 39.80782pt x 39.80809pt.
-<img/istio-intermediate.png, id=36, 163.812pt x 163.812pt>
+(luatex.def)             Requested size: 39.80782pt x 39.80191pt.
+<img/istio-intermediate.png, id=36, 682.55pt x 682.55pt>
 File: img/istio-intermediate.png Graphic file (type png)
 <use img/istio-intermediate.png>
 Package luatex.def Info: img/istio-intermediate.png  used on input line 77.
-(luatex.def)             Requested size: 39.80782pt x 39.80809pt.
-<img/istio-fundamentals.png, id=37, 163.812pt x 163.812pt>
+(luatex.def)             Requested size: 39.80782pt x 39.80559pt.
+<img/istio-fundamentals.png, id=37, 481.8pt x 481.8pt>
 File: img/istio-fundamentals.png Graphic file (type png)
 <use img/istio-fundamentals.png>
 Package luatex.def Info: img/istio-fundamentals.png  used on input line 80.
-(luatex.def)             Requested size: 39.80782pt x 39.80809pt.
-<img/envoy.png, id=38, 163.812pt x 163.812pt>
+(luatex.def)             Requested size: 39.80782pt x 39.80191pt.
+<img/envoy.png, id=38, 481.8pt x 481.8pt>
 File: img/envoy.png Graphic file (type png)
 <use img/envoy.png>
 Package luatex.def Info: img/envoy.png  used on input line 83.
-(luatex.def)             Requested size: 39.80782pt x 39.80809pt.
+(luatex.def)             Requested size: 39.80782pt x 39.80191pt.
 <img/ccna.png, id=39, 353.32pt x 353.32pt>
 File: img/ccna.png Graphic file (type png)
 <use img/ccna.png>
@@ -1319,37 +1319,27 @@ File: img/myself-circle.png Graphic file (type png)
 Package luatex.def Info: img/myself-circle.png  used on input line 93.
 (luatex.def)             Requested size: 101.17773pt x 105.51395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--196
+Underfull \hbox (badness 10000) in paragraph at lines 139--185
 
  []
 
@@ -1358,46 +1348,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--196
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./img/cka.png><./img/istio-e
 xpert.png><./img/istio-intermediate.png><./img/istio-fundamentals.png><./img/env
 oy.png><./img/ccna.png><./img/myself-circle.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 211--240
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--248
 
  []
 
 [2]
-Overfull \hbox (3.70667pt too wide) in paragraph at lines 244--273
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+
+ []
+
+
+Overfull \hbox (3.70667pt too wide) in paragraph at lines 263--292
 []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--273
+Underfull \hbox (badness 10000) in paragraph at lines 263--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--281
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
 
  []
 
 
-Overfull \hbox (16.10063pt too wide) in paragraph at lines 297--297
+Underfull \hbox (badness 10000) in paragraph at lines 293--300
+
+ []
+
+
+Overfull \hbox (16.10063pt too wide) in paragraph at lines 316--316
  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--318
+Underfull \hbox (badness 10000) in paragraph at lines 320--337
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--341
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 339--360
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/texgyreheros-bold.otf(0)/m/it' undefined
 (Font)              using `TU/texgyreheros-bold.otf(0)/m/n' instead on input li
-ne 342.
+ne 361.
 
-[3] (./cv.aux)
+[4] (./cv.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1409,23 +1439,23 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 38912 strings out of 477805
+ 38943 strings out of 477805
  125086,1977958 words of node,token memory allocated
  1695 words of node memory still in use:
    35 hlist, 2 vlist, 11 rule, 18 glue, 4 kern, 1 glyph, 148 attribute, 63 glue_
 spec, 116 attribute_list, 2 write, 39 pdf_literal, 1 pdf_action, 18 pdf_colorsta
 ck nodes
-   avail lists: 1:5,2:2506,3:700,4:805,5:1058,6:238,7:9585,8:25,9:1110,10:7,11:6
-53
- 58301 multiletter control sequences out of 65536+600000
- 76 fonts using 16975967 bytes
- 115i,9n,115p,888b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
+   avail lists: 1:4,2:2374,3:670,4:763,5:1007,6:223,7:9909,8:25,9:1074,10:19,11:
+704
+ 58331 multiletter control sequences out of 65536+600000
+ 77 fonts using 17166535 bytes
+ 115i,9n,115p,734b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
 <./texgyreheros-italic.otf><./texgyreheros-bold.otf><./texgyreheros-regular.otf>
 <./Lato-Hairline.ttf>
-Output written on cv.pdf (3 pages, 1155978 bytes).
+Output written on cv.pdf (4 pages, 594962 bytes).
 
-PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 131072)
+PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 131072)
  196 words of extra memory for PDF output out of 10000 (max. 100000000)
 
