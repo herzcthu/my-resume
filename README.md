@@ -39,8 +39,9 @@
 
 # Job Experiences
 
-* 2022 - Current - Platform Team Lead
-* 2020 - 2022 - Solution Architech
+* 2022 - Current - Senior Manager - SRE
+* 2022 - 2022 - Senior Manager - Platform Team Lead
+* 2020 - 2022 - Senior Manager - Solution Architech
 * 2019 - 2020 - Lead DevOps Engineer
 * 2017 - 2019 - Assistant Team Lead
 * 2014 - 2020 - Project based IT Consultant (NDI)
