@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  31 MAY 2023 13:21
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  31 MAY 2023 17:23
  restricted system commands enabled.
 **resume-engineer.tex
 (./resume-engineer.tex
@@ -1349,74 +1349,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--192
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./img/cka.png><./img/istio-e
 xpert.png><./img/istio-intermediate.png><./img/istio-fundamentals.png><./img/env
 oy.png><./img/ccna.png><./img/myself-circle.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--217
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--236
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--269
+Underfull \hbox (badness 10000) in paragraph at lines 194--247
 
  []
 
 
-Overfull \hbox (3.70667pt too wide) in paragraph at lines 238--271
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--273
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+
+ []
+
+
+Overfull \hbox (3.70667pt too wide) in paragraph at lines 275--308
 []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--271
+Underfull \hbox (badness 10000) in paragraph at lines 275--308
 
  []
 
 
-Overfull \hbox (16.10063pt too wide) in paragraph at lines 290--290
+Overfull \hbox (16.10063pt too wide) in paragraph at lines 327--327
  [][]
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 314--314
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--339
+Underfull \hbox (badness 10000) in paragraph at lines 331--352
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/texgyreheros-bold.otf(0)/m/it' undefined
 (Font)              using `TU/texgyreheros-bold.otf(0)/m/n' instead on input li
-ne 340.
+ne 353.
 
 [3] (./resume-engineer.aux)
 
@@ -1436,14 +1441,14 @@ Here is how much of LuaTeX's memory you used:
    35 hlist, 2 vlist, 11 rule, 18 glue, 4 kern, 1 glyph, 148 attribute, 63 glue_
 spec, 116 attribute_list, 2 write, 39 pdf_literal, 1 pdf_action, 18 pdf_colorsta
 ck nodes
-   avail lists: 1:4,2:2480,3:694,4:813,5:1058,6:239,7:10226,8:25,9:1114,10:7,11:
-671
+   avail lists: 1:4,2:2495,3:691,4:807,5:1014,6:240,7:9944,8:25,9:1110,10:7,11:6
+74
  58331 multiletter control sequences out of 65536+600000
- 77 fonts using 17165255 bytes
+ 77 fonts using 17166535 bytes
  115i,9n,115p,747b,930s stack positions out of 5000i,500n,10000p,200000b,80000s
 <./texgyreheros-italic.otf><./texgyreheros-bold.otf><./texgyreheros-regular.otf>
 <./Lato-Hairline.ttf>
-Output written on resume-engineer.pdf (3 pages, 593574 bytes).
+Output written on resume-engineer.pdf (3 pages, 593993 bytes).
 
 PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
