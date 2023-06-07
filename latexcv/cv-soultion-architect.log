@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  7 JUN 2023 11:41
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.20)  7 JUN 2023 09:32
  restricted system commands enabled.
-**resume-engineer.tex
-(./resume-engineer.tex
+**cv-soultion-architect.tex
+(./cv-soultion-architect.tex
 LaTeX2e <2021-11-15> patch level 1
 Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
@@ -1108,8 +1108,8 @@ Package biblatex Warning: Load 'inputenc' before biblatex.
 
 \@quotelevel=\count452
 \@quotereset=\count453
-(./resume-engineer.aux)
-\openout1 = resume-engineer.aux
+(./cv-soultion-architect.aux)
+\openout1 = cv-soultion-architect.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
@@ -1221,11 +1221,11 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout4 = resume-engineer.bcf
+\openout4 = cv-soultion-architect.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'resume-engineer.bbl' not found.
+Package biblatex Info: ... file 'cv-soultion-architect.bbl' not found.
 
-No file resume-engineer.bbl.
+No file cv-soultion-architect.bbl.
 Package biblatex Info: Reference section=0 on input line 57.
 Package biblatex Info: Reference segment=0 on input line 57.
 *geometry* driver: auto-detecting
@@ -1278,10 +1278,10 @@ LaTeX Info: Redefining \ref on input line 57.
 LaTeX Info: Redefining \pageref on input line 57.
 LaTeX Info: Redefining \nameref on input line 57.
 
-(./resume-engineer.out) (./resume-engineer.out)
+(./cv-soultion-architect.out) (./cv-soultion-architect.out)
 \@outlinefile=\write5
 
-\openout5 = resume-engineer.out
+\openout5 = cv-soultion-architect.out
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <img/cka.png, id=34, 602.25pt x 602.25pt>
@@ -1320,27 +1320,27 @@ File: img/myself-circle.png Graphic file (type png)
 Package luatex.def Info: img/myself-circle.png  used on input line 93.
 (luatex.def)             Requested size: 101.17773pt x 105.51395pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--191
+Underfull \hbox (badness 10000) in paragraph at lines 139--187
 
  []
 
@@ -1349,109 +1349,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--191
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./img/cka.png><./img/istio-e
 xpert.png><./img/istio-intermediate.png><./img/istio-fundamentals.png><./img/env
 oy.png><./img/ccna.png><./img/myself-circle.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--219
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--242
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--245
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--270
+Underfull \hbox (badness 10000) in paragraph at lines 193--250
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 
  []
 
 
-Overfull \hbox (3.70667pt too wide) in paragraph at lines 272--305
+Overfull \hbox (3.70667pt too wide) in paragraph at lines 265--294
 []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--305
+Underfull \hbox (badness 10000) in paragraph at lines 265--294
 
  []
 
 
-Overfull \hbox (16.10063pt too wide) in paragraph at lines 324--324
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--302
+
+ []
+
+
+Overfull \hbox (16.10063pt too wide) in paragraph at lines 318--318
  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--349
+Underfull \hbox (badness 10000) in paragraph at lines 322--339
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 341--362
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/texgyreheros-bold.otf(0)/m/it' undefined
 (Font)              using `TU/texgyreheros-bold.otf(0)/m/n' instead on input li
-ne 350.
+ne 363.
 
-[3] (./resume-engineer.aux)
+[4] (./cv-soultion-architect.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `resume-engineer.out' has not changed.
+Package rerunfilecheck Info: File `cv-soultion-architect.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'resume-engineer.run.xml'.
+Package logreq Info: Writing requests to 'cv-soultion-architect.run.xml'.
 
-\openout1 = resume-engineer.run.xml
+\openout1 = cv-soultion-architect.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 38942 strings out of 477805
+ 38943 strings out of 477805
  125086,1977958 words of node,token memory allocated
  1695 words of node memory still in use:
    35 hlist, 2 vlist, 11 rule, 18 glue, 4 kern, 1 glyph, 148 attribute, 63 glue_
 spec, 116 attribute_list, 2 write, 39 pdf_literal, 1 pdf_action, 18 pdf_colorsta
 ck nodes
-   avail lists: 1:4,2:2462,3:685,4:801,5:1044,6:236,7:10367,8:25,9:1105,10:7,11:
-725
+   avail lists: 1:4,2:2377,3:673,4:769,5:1037,6:223,7:10245,8:25,9:1077,10:19,11
+:743
  58331 multiletter control sequences out of 65536+600000
  77 fonts using 17166615 bytes
- 115i,9n,115p,747b,930s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,9n,115p,753b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
 <./texgyreheros-italic.otf><./texgyreheros-bold.otf><./texgyreheros-regular.otf>
 <./Lato-Hairline.ttf>
-Output written on resume-engineer.pdf (3 pages, 594210 bytes).
+Output written on cv-soultion-architect.pdf (4 pages, 594991 bytes).
 
-PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 131072)
+PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 131072)
  196 words of extra memory for PDF output out of 10000 (max. 100000000)
 
