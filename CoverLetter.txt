@@ -1,0 +1,19 @@
+Dear Sir/Madam,
+
+I am writing to express my interest in the [Position Title] role at [Company Name]. With my strong background in DevOps and Solution Architecture, as well as my experiences in building microservices architecture and managing complex Kubernetes environments, I believe I can make a significant contribution to your organization.
+
+Over the past [Number of Years], I have worked with leading banks in Myanmar, where I have successfully implemented cutting-edge technologies to build and deploy robust, scalable, and secure applications. As a DevOps engineer and solution architect, I have gained extensive experience in microservices architecture, Kubernetes, Istio service mesh, Kafka, and more.
+
+One of my notable achievements includes spearheading the development of a new payment banking application, where I led the implementation of on-prem and cloud Kubernetes clusters, utilizing Istio for service discovery, security, and service-to-service communication. I successfully navigated the challenges of network connectivity between different data centers and optimized the performance of stateful applications in Kubernetes.
+
+Additionally, I have hands-on experience with code repository and CI/CD pipeline management using GitLab and Helm. I have a deep understanding of APM tools such as Pinpoint, Apache Skywalking and the importance of application performance monitoring for ensuring optimal system performance.
+
+Furthermore, my expertise extends to working with relational and NoSQL databases, such as MongoDB, where I have tackled challenges related to memory limitations and optimized query performance.
+
+I thrive in dynamic and fast-paced environments, and I am adept at collaborating with cross-functional teams to deliver high-quality solutions. My strong problem-solving skills and ability to think critically have enabled me to identify and resolve complex issues, ensuring smooth project delivery and customer satisfaction.
+
+I am excited about the opportunity to bring my skills and experiences to [Company Name] and contribute to its ongoing success. I believe that my technical expertise, combined with my passion for innovation and continuous improvement, make me a valuable asset to your team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss my qualifications further and how I can contribute to the growth of [Company Name]. I have attached my resume for your review. I look forward to the possibility of joining your organization and making a positive impact.
+
+Sincerely,
